@@ -1,1 +1,5 @@
 este texto se subira a traves de comandos a github
+
+---
+
+Estoy editando este texto para luego sincronizarlo con mi maquina local
